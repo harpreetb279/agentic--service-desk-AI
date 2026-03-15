@@ -1,0 +1,17 @@
+{
+  "AllowOrigins": [
+    "http://localhost:4200",
+    "https://harpreetbrar.dev",
+    "https://www.harpreetbrar.dev"
+  ],
+  "AllowMethods": [
+    "GET",
+    "POST",
+    "OPTIONS"
+  ],
+  "AllowHeaders": [
+    "content-type",
+    "authorization"
+  ],
+  "AllowCredentials": true
+}

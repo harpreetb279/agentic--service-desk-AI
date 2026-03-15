@@ -1,0 +1,33 @@
+query,intent
+I want my money back,Refund
+Refund my payment please,Refund
+How long does a refund take?,Refund
+Give me a refund,Refund
+My order was canceled but I was charged,Refund
+Money deducted but no order confirmation,Refund
+Request refund for my subscription,Refund
+When will I see refund in my bank?,Refund
+I can’t login to my account,Login
+My password isn’t working,Login
+How do I reset my password?,Login
+Forgot my login credentials,Login
+Why can’t I log in after password reset?,Login
+Locked out of my account,Login
+Having trouble logging in,Login
+How do I change my password?,Login
+Change my credit card details,Billing
+Update billing info,Billing
+My payment failed,Billing
+Add new payment method,Billing
+Why was my card declined?,Billing
+Billing address update,Billing
+Charge not going through,Billing
+Payment keeps failing on checkout,Billing
+Where is my order?,Delivery
+Track my shipping,Delivery
+Has my package been sent?,Delivery
+When will my delivery arrive?,Delivery
+My shipment is late,Delivery
+Track order status,Delivery
+Delivery taking too long,Delivery
+Package not delivered yet,Delivery

@@ -1,0 +1,25 @@
+query,sentiment
+This is ridiculous,Negative
+Worst service ever,Negative
+I am very disappointed,Negative
+I want my money back now,Negative
+My payment failed again and I’m angry,Negative
+Terrible support,Negative
+Your website is broken,Negative
+Fix this immediately,Negative
+Thank you so much,Positive
+Great service,Positive
+I’m very happy,Positive
+This was super helpful,Positive
+I love this app,Positive
+Everything worked perfectly,Positive
+Awesome support,Positive
+Thanks a lot,Positive
+Can you help me reset my password?,Neutral
+How do I track my order?,Neutral
+Where can I update billing info?,Neutral
+I forgot my login,Neutral
+Do you support international shipping?,Neutral
+What is your refund policy?,Neutral
+When will my delivery arrive?,Neutral
+Can I cancel my subscription?,Neutral
