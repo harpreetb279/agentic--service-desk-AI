@@ -32,8 +32,5 @@ Netlify
 # Live Demo
 https://harpreetbrar.dev
 
-# Serves
-AI system architecture
-cloud deployment
-agent orchestration
-observability
+# Highlights
+Demonstrates real-world AI system architecture, cloud deployment, agent orchestration, and observability.
